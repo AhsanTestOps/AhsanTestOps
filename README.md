@@ -1,14 +1,19 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Muhammad%20Ahsan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003566,60:0077b6,100:00b4d8&height=220&section=header&text=Muhammad%20Ahsan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=58&descSize=22&animation=fadeIn&stroke=00b4d8&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=750&height=80&lines=🛡️+SQA+Engineer+%7C+Test+Automation+Specialist;🔐+Security+Testing+%7C+SIEM+%7C+Vulnerability+Assessment;⚡+Playwright+%7C+Cypress+%7C+Selenium+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=true&width=800&height=90&lines=🛡️+SQA+Engineer+%7C+Test+Automation+Specialist;🔐+Security+Testing+%7C+SIEM+%7C+Vulnerability+Assessment;⚡+Playwright+%7C+Cypress+%7C+Selenium+%7C+Python+%7C+Django)](https://git.io/typing-svg)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhsanTestOps&label=Profile+Views&color=0077b6&style=flat-square" alt="profile views"/>
 </div>
 
 ---
@@ -18,36 +23,40 @@
 ```python
 class MuhammadAhsan:
     def __init__(self):
-        self.name             = "Muhammad Ahsan"
-        self.role             = "SQA Engineer @ Appverse"
-        self.location         = "Lahore, Pakistan 🇵🇰"
-        self.email            = "malikmuhammadahsan21@gmail.com"
-        self.linkedin         = "in/muhammad-ahsan-b8a643253"
+        self.name              = "Muhammad Ahsan"
+        self.role              = "SQA Engineer @ Appverse"
+        self.location          = "Lahore, Pakistan 🇵🇰"
+        self.email             = "malikmuhammadahsan21@gmail.com"
+        self.linkedin          = "in/muhammad-ahsan-b8a643253"
 
-        self.expertise        = [
-            "End-to-End Test Automation",
-            "Security & Vulnerability Testing",
-            "SIEM & Threat Monitoring",
-            "API & Performance Testing",
-            "CI/CD Quality Integration",
+        self.automation        = ["Playwright", "Cypress", "Selenium", "Python"]
+        self.security_tools    = ["Burp Suite", "IBM QRadar", "Darktrace"]
+        self.databases         = ["PostgreSQL", "MySQL", "SQL Server", "XAMPP"]
+        self.backend           = ["Django", "Python", "REST APIs"]
+        self.os_infra          = ["Linux", "Windows", "Git", "GitHub"]
+        self.data_tools        = ["SQL", "Power BI", "Excel"]
+
+        self.expertise         = [
+            "End-to-End & Cross-Browser Test Automation",
+            "Security Testing & Penetration Assessment",
+            "SIEM Monitoring & Threat Detection",
+            "API Testing & Validation",
+            "Database Testing & Query Optimization",
+            "CI/CD Pipeline Quality Integration",
+            "Performance & Load Testing",
+            "Bug Lifecycle & Defect Management",
         ]
 
-        self.currently        = [
-            "Designing scalable automation frameworks",
-            "Deep-diving into application security",
-            "Sharpening SQL & data analysis skills",
-        ]
-
-        self.philosophy       = "Ship quality. Not just code."
+        self.philosophy        = "Ship quality. Not just code. 🚀"
 ```
 
 ---
 
-## 🧪 Core Competencies
+## 🧪 Tech Stack & Skills
 
 <div align="center">
 
-### ⚡ Test Automation
+### ⚡ Test Automation Frameworks
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -57,18 +66,30 @@ class MuhammadAhsan:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Darktrace](https://img.shields.io/badge/Darktrace-00C8FF?style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 📊 Data & Reporting
+### 🌐 Backend & Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Data, Reporting & Analytics
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🖥️ OS & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -78,36 +99,47 @@ class MuhammadAhsan:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 [AI-Chatbot](https://github.com/AhsanTestOps/AI-Chatbot)
-Built with **Python + LangChain**. An intelligent conversational AI chatbot with context-aware responses and dynamic prompt handling.
+An intelligent conversational AI chatbot with context-aware responses, dynamic prompt handling and LangChain integration.
 
-`Python` `LangChain` `AI`
+**Tech:** `Python` `LangChain` `AI/NLP`
+
+⭐ *Showcases AI integration & Python skills*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✈️ [Smart Travel Planner](https://github.com/AhsanTestOps/Smart-Travel-Planner-and-Recommendation-System)
-Full-stack AI-powered travel app with intelligent itinerary generation, destination discovery & interactive maps.
+Full-stack AI-powered travel app with intelligent itinerary generation, destination discovery & interactive maps. Final Year Project.
 
-`Django` `React` `AI` `Full-Stack`
+**Tech:** `Django` `React` `JavaScript` `AI`
+
+⭐ *Full-stack FYP — end-to-end delivery*
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 [Retail Sales Analysis — SQL](https://github.com/AhsanTestOps/Retail_Sales_Data_Analysis_SQL)
-End-to-end SQL analytics project: data cleaning, EDA, and business insights on revenue trends & customer behavior.
+Complete SQL analytics pipeline: data cleaning, exploratory data analysis, and business insights including top products, revenue trends & customer behavior.
 
-`SQL` `EDA` `Business Intelligence`
+**Tech:** `SQL` `EDA` `Business Intelligence`
+
+⭐ *Demonstrates data analysis depth*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 More Coming Soon...
-Currently working on advanced automation framework projects and security testing playbooks.
+### 🔬 More In Progress...
+Building advanced automation framework templates and security testing playbooks.
+
+**Focus areas:**
+- Page Object Model frameworks
+- API automation with Python
+- Security regression suites
 
 `Watch this space 👀`
 
@@ -121,14 +153,25 @@ Currently working on advanced automation framework projects and security testing
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhsanTestOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanTestOps&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhsanTestOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanTestOps&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhsanTestOps&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhsanTestOps&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhsanTestOps&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -150,6 +193,8 @@ Currently working on advanced automation framework projects and security testing
 
 > *"Quality is never an accident; it is always the result of intelligent effort."* — John Ruskin
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:0077b6,100:0d1117&height=130&section=footer"/>
 
 </div>
