@@ -20,35 +20,64 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MuhammadAhsan:
-    def __init__(self):
-        self.name              = "Muhammad Ahsan"
-        self.role              = "SQA Engineer @ Appverse"
-        self.location          = "Lahore, Pakistan 🇵🇰"
-        self.email             = "malikmuhammadahsan21@gmail.com"
-        self.linkedin          = "in/muhammad-ahsan-b8a643253"
+<table>
+<tr>
+<td width="55%" valign="top">
 
-        self.automation        = ["Playwright", "Cypress", "Selenium", "Python"]
-        self.security_tools    = ["Burp Suite", "IBM QRadar", "Darktrace"]
-        self.databases         = ["PostgreSQL", "MySQL", "SQL Server", "XAMPP"]
-        self.backend           = ["Django", "Python", "REST APIs"]
-        self.os_infra          = ["Linux", "Windows", "Git", "GitHub"]
-        self.data_tools        = ["SQL", "Power BI", "Excel"]
+### 🙋‍♂️ Who I Am
 
-        self.expertise         = [
-            "End-to-End & Cross-Browser Test Automation",
-            "Security Testing & Penetration Assessment",
-            "SIEM Monitoring & Threat Detection",
-            "API Testing & Validation",
-            "Database Testing & Query Optimization",
-            "CI/CD Pipeline Quality Integration",
-            "Performance & Load Testing",
-            "Bug Lifecycle & Defect Management",
-        ]
+Hi, I'm **Muhammad Ahsan** — a passionate **SQA Engineer** at **Appverse**, based in **Lahore, Pakistan 🇵🇰**.
 
-        self.philosophy        = "Ship quality. Not just code. 🚀"
-```
+I specialize in building **robust test automation frameworks** and performing deep **security & vulnerability assessments** to ensure software ships with zero critical defects. I bring a structured, quality-first mindset to everything I build and test.
+
+> *"Ship quality. Not just code."* 🚀
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Quick Info
+
+| | |
+|---|---|
+| 💼 **Role** | SQA Engineer @ Appverse |
+| 📍 **Location** | Lahore, Pakistan |
+| 📧 **Email** | malikmuhammadahsan21@gmail.com |
+| 🔗 **LinkedIn** | [muhammad-ahsan-b8a643253](https://www.linkedin.com/in/muhammad-ahsan-b8a643253) |
+| 💻 **GitHub** | [AhsanTestOps](https://github.com/AhsanTestOps) |
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Core Expertise
+
+✅ End-to-End & Cross-Browser Test Automation  
+✅ Security Testing & Penetration Assessment  
+✅ SIEM Monitoring & Threat Detection  
+✅ API Testing & Validation  
+✅ Database Testing & Query Optimization  
+✅ CI/CD Pipeline Quality Integration  
+✅ Performance & Load Testing  
+✅ Bug Lifecycle & Defect Management  
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Currently Working On
+
+🔹 Designing scalable **Page Object Model** automation frameworks  
+🔹 Deep-diving into **application security** & OWASP testing  
+🔹 Sharpening **SQL** & data analysis skills with Power BI  
+🔹 Building **API automation** suites with Python + Requests  
+🔹 Advancing knowledge in **SIEM & threat detection** workflows  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,7 +153,7 @@ Full-stack AI-powered travel app with intelligent itinerary generation, destinat
 <td width="50%" valign="top">
 
 ### 🛒 [Retail Sales Analysis — SQL](https://github.com/AhsanTestOps/Retail_Sales_Data_Analysis_SQL)
-Complete SQL analytics pipeline: data cleaning, exploratory data analysis, and business insights including top products, revenue trends & customer behavior.
+Complete SQL analytics pipeline: data cleaning, exploratory data analysis, and business insights on revenue trends & customer behavior.
 
 **Tech:** `SQL` `EDA` `Business Intelligence`
 
