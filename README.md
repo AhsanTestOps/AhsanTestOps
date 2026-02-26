@@ -182,15 +182,15 @@ Building advanced automation framework templates and security testing playbooks.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhsanTestOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhsanTestOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanTestOps&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanTestOps&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhsanTestOps&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border_radius=10)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AhsanTestOps&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -200,7 +200,13 @@ Building advanced automation framework templates and security testing playbooks.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhsanTestOps&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AhsanTestOps&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanTestOps&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
